@@ -1,0 +1,144 @@
+Name:            Android
+Groups:          /
+Guest OS:        Other Linux (32-bit)
+UUID:            87bb8c18-a755-46c6-ba82-2a0deb17bac3
+Config file:     C:\ProgramData\BlueStacks\Engine\Android\Android.bstk
+Snapshot folder: C:\ProgramData\BlueStacks\Engine\Android\Snapshots
+Log folder:      C:\ProgramData\BlueStacks\Engine\Android\Logs
+Hardware UUID:   87bb8c18-a755-46c6-ba82-2a0deb17bac3
+Memory size:     1800MB
+Page Fusion:     off
+VRAM size:       12MB
+CPU exec cap:    100%
+HPET:            off
+Chipset:         piix3
+Firmware:        BIOS
+Number of CPUs:  2
+PAE:             on
+Long Mode:       on
+Triple Fault Reset: off
+APIC:            on
+X2APIC:          off
+CPUID Portability Level: 0
+CPUID overrides: None
+Boot menu mode:  disabled
+Boot Device (1): HardDisk
+Boot Device (2): Not Assigned
+Boot Device (3): Not Assigned
+Boot Device (4): Not Assigned
+ACPI:            on
+IOAPIC:          on
+BIOS APIC mode:  APIC
+Time offset:     0ms
+RTC:             UTC
+Hardw. virt.ext: on
+Nested Paging:   on
+Large Pages:     on
+VT-x VPID:       on
+VT-x unr. exec.: on
+Paravirt. Provider: Legacy
+Effective Paravirt. Provider: None
+State:           running (since 2021-03-17T19:37:22.015000000)
+Monitor count:   1
+3D Acceleration: off
+Teleporter Enabled: off
+Teleporter Port: 0
+Teleporter Address: 
+Teleporter Password: 
+Tracing Enabled: off
+Allow Tracing to Access VM: off
+Tracing Configuration: 
+Autostart Enabled: off
+Autostart Delay: 0
+Default Frontend: 
+Storage Controller Name (0):            IDE
+Storage Controller Type (0):            PIIX3
+Storage Controller Instance Number (0): 0
+Storage Controller Max Port Count (0):  2
+Storage Controller Port Count (0):      2
+Storage Controller Bootable (0):        on
+Storage Controller Name (1):            SATA
+Storage Controller Type (1):            IntelAhci
+Storage Controller Instance Number (1): 0
+Storage Controller Max Port Count (1):  30
+Storage Controller Port Count (1):      3
+Storage Controller Bootable (1):        off
+IDE (0, 0): C:\ProgramData\BlueStacks\Engine\Android\fastboot.vdi (UUID: 4da0cf19-7a5d-474d-9748-2c31c11fbbd6)
+SATA (0, 0): C:\ProgramData\BlueStacks\Engine\Android\Root.vdi (UUID: fca296ce-8268-4ed7-a57f-d32ec11ab304)
+SATA (1, 0): C:\ProgramData\BlueStacks\Engine\Android\Data_0.vdi (UUID: 3da1689d-ea97-45bc-a2fc-6270b9ab2fad)
+NIC 1:           MAC: 0800270E38B3, Attachment: NAT, Cable connected: on, Trace: off (file: none), Type: virtio, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 1 Settings:  MTU: 0, Socket (send: 64, receive: 64), TCP Window (send:64, receive: 64)
+NIC 1 Rule(0):   name = tcp_5555_5555, protocol = tcp, host ip = 127.0.0.1, host port = 5555, guest ip = , guest port = 5555
+NIC 1 Rule(1):   name = tcp_6666_6666, protocol = tcp, host ip = 127.0.0.1, host port = 6666, guest ip = , guest port = 6666
+NIC 1 Rule(2):   name = tcp_7777_7777, protocol = tcp, host ip = 127.0.0.1, host port = 7777, guest ip = , guest port = 7777
+NIC 1 Rule(3):   name = tcp_9999_9999, protocol = tcp, host ip = 127.0.0.1, host port = 9999, guest ip = , guest port = 9999
+NIC 1 Rule(4):   name = udp_12000_12000, protocol = udp, host ip = 127.0.0.1, host port = 12000, guest ip = , guest port = 12000
+NIC 2:           disabled
+NIC 3:           disabled
+NIC 4:           disabled
+NIC 5:           disabled
+NIC 6:           disabled
+NIC 7:           disabled
+NIC 8:           disabled
+Pointing Device: USB Tablet
+Keyboard Device: PS/2 Keyboard
+UART 1:          disabled
+UART 2:          disabled
+UART 3:          disabled
+UART 4:          disabled
+LPT 1:           disabled
+LPT 2:           disabled
+Audio:           disabled
+Clipboard Mode:  disabled
+Drag and drop Mode: disabled
+Video mode:      720x400x0 at 0,0 enabled
+VRDE:            disabled
+USB:             enabled
+EHCI:            disabled
+XHCI:            disabled
+
+USB Device Filters:
+
+<none>
+
+Available remote USB devices:
+
+<none>
+
+Currently Attached USB Devices:
+
+<none>
+
+Bandwidth groups:  <none>
+
+Shared folders:  
+
+Name: 'Documents', Host path: 'C:\Users\Djalil\Documents' (machine mapping), writable
+Name: 'Pictures', Host path: 'C:\Users\Djalil\Pictures' (machine mapping), writable
+Name: 'InputMapper', Host path: 'C:\ProgramData\BlueStacks\Engine\UserData\InputMapper' (machine mapping), writable
+Name: 'BstSharedFolder', Host path: 'C:\ProgramData\BlueStacks\Engine\UserData\SharedFolder' (machine mapping), writable
+
+VRDE Connection:    not active
+Clients so far:     0
+
+Video capturing:    not active
+Capture screens:    0
+Capture file:       C:\ProgramData\BlueStacks\Engine\Android\Android.webm
+Capture dimensions: 1024x768
+Capture rate:       512 kbps
+Capture FPS:        25
+
+Guest:
+
+Configured memory balloon size:      0 MB
+OS type:                             Linux26
+Additions run level:                 1
+Additions version:                   5.1.24 r117012
+
+
+Guest Facilities:
+
+Facility "VirtualBox Base Driver": active/running (last update: 2021/03/17 19:37:29 UTC)
+Facility "Seamless Mode": not active (last update: 2021/03/17 19:37:29 UTC)
+Facility "Graphics Mode": not active (last update: 2021/03/17 19:37:29 UTC)
+

@@ -1,0 +1,19 @@
+@startuml
+nwdiag {
+
+    network WLAN {
+
+        Server [\
+            address = "SANKYU-SECONDAR",\
+            description = "<img:remote-server-2.hd720.png>\n\n<font size=25><i>Sankyu Secondary</i> server",\
+            ]
+
+        Client [\
+            description = "<img:remote-client-3.hd720.png>\n\n<font size=25>Client",\
+            ]
+
+    }
+
+}
+
+@enduml
