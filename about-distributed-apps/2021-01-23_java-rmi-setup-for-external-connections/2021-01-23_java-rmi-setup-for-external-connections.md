@@ -128,11 +128,11 @@ Like, forward packets sent to TCP Port 42000 _specifically_ to Sankyu/192.168.1.
 **Port triggering** config:  
 Like, when a request to the RMI Registry's port (42000) is made, forward all related ports (42001-42999) to _whatever_ machine that triggered this rule (which is Sankyu).  
 ![Port Triggering page on my D-Link router](./screenshots/dlink-router--port-triggering.png)
-> The accidentally (#todo/fixme) cropped out part:
+> Port Trigger Table:
 > ```
-> ServerName | Trigger Protocol | Direction | Match Port  | Open Protocol | Relate Port
-> ---------------------------------------------------------------------------------------
->  SHINI      | both             | incoming  | 42000-42000 | both          | 42001-42999
+> | ServerName | Trigger Protocol | Direction | Match Port  | Open Protocol | Relate Port |
+> |------------+------------------+-----------+-------------+---------------+-------------|
+> |  SHINI     | both             | incoming  | 42000-42000 | both          | 42001-42999 |
 > ```
 
 ---
